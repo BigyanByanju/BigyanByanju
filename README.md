@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bigyan</h1>
 <h3 align="center">A passionate frontend developer from Nepal</h3>
-<iframe src="https://giphy.com/embed/Y4ak9Ki2GZCbJxAnJD" width="480" height="302" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Y4ak9Ki2GZCbJxAnJD">via GIPHY</a></p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bigyanbyanju" alt="bigyanbyanju" /></a> </p>
 
 - 🌱 I’m currently learning **Javascript**
